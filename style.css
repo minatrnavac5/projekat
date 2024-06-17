@@ -1,0 +1,65 @@
+#ime{
+    text-align: center;
+    color: rgb(245, 116, 245);
+    border: 10px  dashed slateblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-transform: capitalize;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+body{
+    background-color: bisque;
+    color:crimson ;
+    border: 20px solid rgb(134, 170, 238);
+}
+#hobi{
+padding-left: 20px;
+font-size: medium;
+font-family: fantasy;
+
+
+}
+.naslov{color:rgb(84, 197, 84) ;
+    font-family: cursive;
+    font-size: large;
+    margin-left: 20px;
+    font-style: italic;
+}
+li{
+    
+    font-family: fantasy;
+    text-decoration: underline  black;
+    text-decoration-thickness: 2px;
+    text-decoration-style: dotted;
+}
+#mv{color: rgb(84, 197, 84);
+    font-family: cursive;
+    font-size: large;
+    margin-left: 20px;
+    font-style: italic;
+}
+img{border: 3px dashed rgb(245, 116, 245) ;
+margin-left: 20px;}
+#om{
+    text-align: center;
+    border: 5px solid rgb(245, 116, 245);
+    font-size: x-large;
+    font-style: italic;
+}
+#divid{
+
+    font-family: fantasy;
+    
+}
+table{
+    margin-left: 20px;
+    font-family: 'Playwrite AU SA';
+
+
+}
+
+
+
+
+
